@@ -17,7 +17,7 @@
 ## Result in JSON format
 ```
 
-$ python3 $ analyselog.py
+$ python3 analyselog.py
 
 {
     "request": "POST",
